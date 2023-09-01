@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [https://github.com/deadanielle/qrcode-frontendmentor-1.git](https://github.com/deadanielle/qrcode-frontendmentor-1.git)
+- Solution URL: [https://github.com/deadanielle/qrcode-challenge.git](https://github.com/deadanielle/qrcode-challenge.git)
 - Live Site URL: [ https://deadanielle.github.io/qrcode-challenge/]( https://deadanielle.github.io/qrcode-challenge/)
 
 ## My process
@@ -45,7 +45,7 @@ When I first viewed the challenge, I was not able to figure out and thought it w
 
 ## Author
 
-- Website - [Diviyya Shree I](https://www.your-site.com)
+- Website -Diviyya Shree I
 - Frontend Mentor - [@deadanielle](https://www.frontendmentor.io/profile/deadanielle)
 
 
